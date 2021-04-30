@@ -1,6 +1,7 @@
 set rnu
 set nuw=2
 syntax on
+filetype plugin indent on
 set autoindent
 set backspace=indent,eol,start
 set ruler
@@ -10,3 +11,5 @@ set noexpandtab
 set wildmode=list:longest
 set incsearch
 colorscheme ron
+set showcmd
+
